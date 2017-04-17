@@ -2,9 +2,27 @@ h1{
 	background-color: #F0FFFF;
 }
 
+lisatieto{
+	float:right;
+	height:500px;
+	background-color: #00F000;
+}
+
 body{
 	margin.left: 5em;
 	background-color: #F0FFA0;
+}
+
+p{
+	width:600px;
+}
+
+h3{
+	width:600px;
+}
+
+h4{
+	width:600px;
 }
 
 form {
@@ -24,4 +42,11 @@ input:optional {
 }
 .uutinen{
 	width:400px;
+}
+sivupalkki{
+	float:right;
+	background-color: blue;
+	width:200px;
+	height:500px;
+	
 }
