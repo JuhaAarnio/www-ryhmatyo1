@@ -1,0 +1,27 @@
+h1{
+	background-color: #F0FFFF;
+}
+
+body{
+	margin.left: 5em;
+	background-color: #F0FFA0;
+}
+
+form {
+	 max-width: 60em; margin: 3em; 
+	 background-color: #F5F5DC;
+	 font-size: 1.3em;
+	 font-style: bold;
+}
+input:optional {
+    background-color: #F0F8FF;
+	min-height: 3em;
+	min-width: 10em;
+	border-color:black;
+}
+.venaja{
+	height:200px;
+}
+.uutinen{
+	width:400px;
+}
